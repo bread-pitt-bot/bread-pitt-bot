@@ -1,0 +1,11 @@
+🔐 AES
+
+🔁 CBC mode
+
+📎 PKCS5Padding
+
+🧊 128-bit key
+
+🧬 Base64 encoded output
+
+🔑 Secret key: asdfghjklqwertyu (16 characters → 128 bits)
